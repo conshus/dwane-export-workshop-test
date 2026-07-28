@@ -2,6 +2,10 @@
 
 <img src="https://developer.nexmo.com/assets/images/Vonage_Nexmo.svg" height="48px" alt="Nexmo is now known as Vonage" />
 
+
+[![Open in GitHub Codespaces](https://github.com)](https://codespaces.new/${{ github.repository }}/tree/main?quickstart=1)
+
+
 A sample server app shows you how to use Vonage Voice API and Client SDK with the Node Server SDK to create a Web application to make and receive phone calls and app to app calls.
 The applications are based on these tutorials (that use the Vonage CLI to create Vonage applications, create users and generate tokens):
 
